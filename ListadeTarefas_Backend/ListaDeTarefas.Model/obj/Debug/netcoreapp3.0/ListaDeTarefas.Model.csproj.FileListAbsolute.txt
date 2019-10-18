@@ -1,0 +1,16 @@
+D:\Supero\SuperoLista\ListaDeTarefas\ListaDeTarefas.Model\bin\Debug\netcoreapp3.0\ListaDeTarefas.Model.deps.json
+D:\Supero\SuperoLista\ListaDeTarefas\ListaDeTarefas.Model\bin\Debug\netcoreapp3.0\ListaDeTarefas.Model.dll
+D:\Supero\SuperoLista\ListaDeTarefas\ListaDeTarefas.Model\bin\Debug\netcoreapp3.0\ListaDeTarefas.Model.pdb
+D:\Supero\SuperoLista\ListaDeTarefas\ListaDeTarefas.Model\obj\Debug\netcoreapp3.0\ListaDeTarefas.Model.csprojAssemblyReference.cache
+D:\Supero\SuperoLista\ListaDeTarefas\ListaDeTarefas.Model\obj\Debug\netcoreapp3.0\ListaDeTarefas.Model.AssemblyInfoInputs.cache
+D:\Supero\SuperoLista\ListaDeTarefas\ListaDeTarefas.Model\obj\Debug\netcoreapp3.0\ListaDeTarefas.Model.AssemblyInfo.cs
+D:\Supero\SuperoLista\ListaDeTarefas\ListaDeTarefas.Model\obj\Debug\netcoreapp3.0\ListaDeTarefas.Model.dll
+D:\Supero\SuperoLista\ListaDeTarefas\ListaDeTarefas.Model\obj\Debug\netcoreapp3.0\ListaDeTarefas.Model.pdb
+D:\TesteSupero\ListadeTarefas_Backend\ListaDeTarefas.Model\bin\Debug\netcoreapp3.0\ListaDeTarefas.Model.deps.json
+D:\TesteSupero\ListadeTarefas_Backend\ListaDeTarefas.Model\bin\Debug\netcoreapp3.0\ListaDeTarefas.Model.dll
+D:\TesteSupero\ListadeTarefas_Backend\ListaDeTarefas.Model\bin\Debug\netcoreapp3.0\ListaDeTarefas.Model.pdb
+D:\TesteSupero\ListadeTarefas_Backend\ListaDeTarefas.Model\obj\Debug\netcoreapp3.0\ListaDeTarefas.Model.csprojAssemblyReference.cache
+D:\TesteSupero\ListadeTarefas_Backend\ListaDeTarefas.Model\obj\Debug\netcoreapp3.0\ListaDeTarefas.Model.AssemblyInfoInputs.cache
+D:\TesteSupero\ListadeTarefas_Backend\ListaDeTarefas.Model\obj\Debug\netcoreapp3.0\ListaDeTarefas.Model.AssemblyInfo.cs
+D:\TesteSupero\ListadeTarefas_Backend\ListaDeTarefas.Model\obj\Debug\netcoreapp3.0\ListaDeTarefas.Model.dll
+D:\TesteSupero\ListadeTarefas_Backend\ListaDeTarefas.Model\obj\Debug\netcoreapp3.0\ListaDeTarefas.Model.pdb
